@@ -1,2 +1,2 @@
-defaults['php-smartos']['version'] = '5.5.14'
- defaults['php-smartos']['extra_configure_options'] = '--enable-ipv6'
+default['php-smartos']['version'] = '5.5.14'
+default['php-smartos']['extra_configure_options'] = '--enable-ipv6'
